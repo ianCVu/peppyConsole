@@ -3,7 +3,7 @@ let list = {
   "anirudhs5817@mytusd.org" : "21005817"
 };
 list.add = function() {
-  console.log("You will be redirected to the source code in...");
+  console.log("You will be redirected to the source code to add info to the list in...");
   setTimeout(function() {
     console.log("3");
   }, 1000);
