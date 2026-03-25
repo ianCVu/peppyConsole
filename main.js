@@ -23,6 +23,6 @@ peppy.ssidg = function(fn) {
   pg.g2 = vps.vp2 + fn;
   pg.g3 = vps.vp3 + fn;
   pg.g4 = vps.vp4 + fn;
-  pg.g5 = vos.vo5 + fn;
+  pg.g5 = vps.vo5 + fn;
   console.log(pg);
 };
