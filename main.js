@@ -4,5 +4,5 @@ list.grab = function() {
   console.log(list);
 };
 list.add = function() {
-  location.href = "https://github.com/ianCVu/peppyConsole/blob/main/main.js";
+  window.open("https://github.com/ianCVu/peppyConsole/blob/main/main.js", "_blank");
 };
