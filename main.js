@@ -1,5 +1,6 @@
 let list = {
-  "davidw6054@mytusd.org" : "7706054"
+  "davidw6054@mytusd.org" : "7706054",
+  "anirudhs5817@mytusd.org" : "21005817"
 };
 list.grab = function() {
   console.log("Loading JSON...");
