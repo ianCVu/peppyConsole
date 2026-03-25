@@ -5,4 +5,5 @@ list.grab = function() {
 };
 list.add = function() {
   window.open("https://github.com/ianCVu/peppyConsole/blob/main/main.js", "_blank");
+  console.log("Add value to JSON.");
 };
