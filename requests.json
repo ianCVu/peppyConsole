@@ -2,11 +2,11 @@
   "R1" : {
     "RT" : "03/25/2026",
     "RM" : "Copyrighted Reasons",
-    "RT" : {
+    "TS" : [
       "Anirudh",
       "Everett",
       "Alex",
       "Aarav"
-    }
+    ]
   }
 }
