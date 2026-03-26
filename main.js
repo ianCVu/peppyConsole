@@ -25,7 +25,8 @@ peppy.ssidg = function(fn) {
     "vp2" : "770",
     "vp3" : "3007",
     "vp4" : "4600",
-    "vp5" : "200"
+    "vp5" : "200",
+    "vp6" : "4200"
   };
   var pg = {};
   pg.g1 = vps.vp1 + fn;
@@ -33,5 +34,6 @@ peppy.ssidg = function(fn) {
   pg.g3 = vps.vp3 + fn;
   pg.g4 = vps.vp4 + fn;
   pg.g5 = vps.vp5 + fn;
+  pg.g6 = vps.vp6 + fn;
   console.log(pg);
 };
