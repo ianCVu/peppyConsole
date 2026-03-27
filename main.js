@@ -6,22 +6,6 @@ let list = {
   "aaravb5818@mytusd.org" : "21005818",
   "everettk5746@mytusd.org" : "21005746"
 };
-list.add = function() {
-  console.log("You will be redirected to the source code to add info to the list in...");
-  setTimeout(function() {
-    console.log("3");
-  }, 1000);
-  setTimeout(function() {
-    console.log("2");
-  }, 2000);
-  setTimeout(function() {
-    console.log("1");
-    setTimeout(function() {
-      window.open("https://github.com/ianCVu/peppyConsole/blob/main/main.js", "_blank");
-      console.log("You have been redirected to Peppy Console's Source Code in...");
-    }, 500);
-  }, 3000);
-};
 let peppy = {};
 peppy.ssidg = function(fn) {
   var vps = {
@@ -62,7 +46,7 @@ peppy.vreq = function() {
   setTimeout(function() {
     console.log("1");
     setTimeout(function() {
-      window.open("https://github.com/ianCVu/peppyConsole/blob/main/requests.json", "_blank");
+      window.open("https://peppyyuke.github.io/nhaadConsole/requests.json", "_blank");
       console.log("You have been redirected to Peppy's Request's JSON.");
     }, 500);
   }, 3000);
