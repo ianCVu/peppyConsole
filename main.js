@@ -1,8 +1,10 @@
 console.clear();
 console.log("Welcome to N.H.A.A.D Console.");
 let list = {
-  "davidw6054@mytusd.org" : "7706054",
-  "anirudhs5817@mytusd.org" : "21005817"
+  "anirudhs5817@mytusd.org" : "21005817",
+  "alexanderd5971@mytusd.org" : "21005971",
+  "aaravb5818@mytusd.org" : "21005818",
+  "everettk5746@mytusd.org" : "21005746"
 };
 list.add = function() {
   console.log("You will be redirected to the source code to add info to the list in...");
