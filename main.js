@@ -18,7 +18,7 @@ list.add = function() {
     console.log("1");
     setTimeout(function() {
       window.open("https://github.com/ianCVu/peppyConsole/blob/main/main.js", "_blank");
-      console.log("You have been redirected to Peppy Console's Source Code.");
+      console.log("You have been redirected to Peppy Console's Source Code in...");
     }, 500);
   }, 3000);
 };
