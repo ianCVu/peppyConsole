@@ -1,3 +1,5 @@
+console.clear();
+console.log("Welcome to N.H.A.A.D Console.");
 let list = {
   "davidw6054@mytusd.org" : "7706054",
   "anirudhs5817@mytusd.org" : "21005817"
