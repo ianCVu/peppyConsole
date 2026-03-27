@@ -51,3 +51,19 @@ peppy.ssidg = function(fn) {
   pg.g11 = vps.vp11 + fn;
   console.log(pg);
 };
+peppy.vreq = function() {
+  console.log("You will be redirected to requests.json to view requests.");
+  setTimeout(function() {
+    console.log("3");
+  }, 1000);
+  setTimeout(function() {
+    console.log("2");
+  }, 2000);
+  setTimeout(function() {
+    console.log("1");
+    setTimeout(function() {
+      window.open("https://github.com/ianCVu/peppyConsole/blob/main/requests.json", "_blank");
+      console.log("You have been redirected to Peppy's Request's JSON.");
+    }, 500);
+  }, 3000);
+}
