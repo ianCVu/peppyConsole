@@ -1,13 +1,13 @@
 {
   "R1" : {
-    "RT" : "03/25/2026",
-    "RM" : "Copyrighted Reasons",
-    "TS" : [
+    "date" : "03/25/2026",
+    "reason" : "Copyrighted Reasons",
+    "targets" : [
       "Anirudh",
       "Everett",
       "Alex",
       "Aarav"
     ],
-    "RO" : false
+    "caseOn" : false
   }
 }
