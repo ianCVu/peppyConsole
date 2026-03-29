@@ -46,7 +46,7 @@ peppy.vreq = function() {
   setTimeout(function() {
     console.log("1");
     setTimeout(function() {
-      window.open("https://peppyyuke.github.io/nhaadConsole/requests.json", "_blank");
+      window.open("https://nhaad.github.io/console/requests.json", "_blank");
       console.log("You have been redirected to Peppy's Request's JSON.");
     }, 500);
   }, 3000);
