@@ -4,7 +4,8 @@ let list = {
   "anirudhs5817@mytusd.org" : "21005817",
   "alexanderd5971@mytusd.org" : "21005971",
   "aaravb5818@mytusd.org" : "21005818",
-  "everettk5746@mytusd.org" : "21005746"
+  "everettk5746@mytusd.org" : "21005746",
+  "viviank7996@mytusd.org" : "7707996"
 };
 let peppy = {};
 peppy.ssidg = function(fn) {
